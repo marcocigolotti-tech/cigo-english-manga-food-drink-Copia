@@ -1,11 +1,7 @@
-# CIGO English Manga – Food & Drink
+CIGO English Manga – Food & Drink
 
-Web app bilingue inglese/italiano per GitHub Pages, con dialogo, lettura vocale, vocabolario ed esercizi con spiegazioni bilingui.
+Edizione con personaggi manga in tutte le sezioni: home, dialogo, vocabolario, quiz e schermata finale.
 
-## Pubblicazione
-Carica `index.html` e `manga-personaggi.webp` nella radice del repository, poi abilita GitHub Pages dal branch `main`, cartella `/ (root)`.
+Carica tutti i file della cartella nella radice del repository GitHub Pages, mantenendo index.html e i file .webp nella stessa cartella.
 
-## Note
-La lettura vocale dipende dalle voci installate nel browser/dispositivo. Funziona senza librerie esterne. Modalità calma e testo grande disponibili.
-
-Illustrazione manga generata con IA. Ideato dal Prof. Marco Cigolotti · CIGO STUDIO.
+Ideato dal Prof. Marco Cigolotti. Realizzato con il supporto dell’IA.
